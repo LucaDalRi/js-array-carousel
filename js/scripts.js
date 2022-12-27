@@ -26,7 +26,7 @@ function indietro() {
     
     imgCarosello[currentImg--]
 
-    if (currentImg <= 0) {
+    if (currentImg < 1) {
         
         currentImg = 5;
         
