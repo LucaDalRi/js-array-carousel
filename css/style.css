@@ -29,7 +29,7 @@ body{
     object-fit: cover;
 }
 
-.arrow-left, .arrow-right{
+#arrow-left, #arrow-right{
     position: absolute;
     top: 220px;
     background-color: white;
@@ -41,6 +41,6 @@ body{
     font-size: 20px;
 }
 
-.arrow-right{
+#arrow-right{
     right: 0px;
 }
